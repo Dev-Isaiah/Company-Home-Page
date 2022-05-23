@@ -100,7 +100,7 @@
   /* HEADER SECTION */
   header {
       min-height: 736px;
-      background-image: url("https://github.com/DEVArt1st/Company-Home-Page/blob/main/resources/images/splash-image.jpg?raw=true");
+      background-image: url("file:///C:/Users/irbro/Desktop/Projects/flexbox-business-site/resources/images/splash-image.jpg");
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
