@@ -100,7 +100,7 @@
   /* HEADER SECTION */
   header {
       min-height: 736px;
-      background-image: url("file:///C:/Users/irbro/Desktop/Projects/flexbox-business-site/resources/pictures/splash-image.jpg");
+      background-image: url("file:///C:/Users/irbro/Desktop/Projects/flexbox-business-site/resources/images/splash-image.jpg");
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
@@ -175,6 +175,11 @@
 
       .nav-items-end-mobile {
           display: block;
+      }
+
+      .nav-items-end-mobile p a{
+        font-size: 18px;
+        color: #f0f0f0;
       }
   }
 
