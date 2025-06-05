@@ -8,4 +8,4 @@ This was a project from Codecademy that had requirements that I had to follow in
  - [x] CSS
 
 ## Completed Project Link:
-https://devart1st.github.io/Company-Home-Page/
+https://dev-isaiah.github.io/Company-Home-Page/
